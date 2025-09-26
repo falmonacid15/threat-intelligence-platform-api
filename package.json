@@ -25,6 +25,7 @@
   "author": "Felipe Almonacid",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^6.16.2",
     "bcryptjs": "^3.0.2",
     "compression": "^1.8.1",
     "cors": "^2.8.5",
