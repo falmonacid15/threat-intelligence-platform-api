@@ -1,3 +1,8 @@
 {
-  "cSpell.words": ["Almonacid", "cuid", "datasource", "maxsize", "postgresql"]
+  "cSpell.words": ["Almonacid", "cuid", "datasource", "maxsize", "postgresql"],
+  "material-icon-theme.files.associations": {
+    "*.service.ts": "typescript",
+    "*.controller.ts": "typescript",
+    "*.routes.ts": "typescript"
+  }
 }
